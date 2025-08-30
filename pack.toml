@@ -1,0 +1,13 @@
+name = "SilMay"
+author = "Silmar"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d33d821579f6605fa92dc3d0fc8e3ade052c121e8b2cdcbe245d8ceb528b22af"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.8"

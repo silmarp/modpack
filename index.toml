@@ -1,0 +1,68 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "669902add3a9968b75b2ed6c80c0e12f9dd35bbc00cf740fe628795ae184bb47"
+
+[[files]]
+file = "flake.lock"
+hash = "5ee859c4885631ce669205bfc6c36eb0d8b8fdefd4486f1963927ab39a4352f4"
+
+[[files]]
+file = "flake.nix"
+hash = "af74dbfc1995aa6de47495cb1e89125c29319eaa484076531fcd569bb017c765"
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "2728d8eb6fced8220aaebafacfdef1ebca454657fbb215cc46d80442efd25dab"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "aad43103bb170f8ca47a9f2bbb98cb39d7c0e333ea08fbfe2b11d8aeaafea695"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "2781076ec25185f64c853d4cdce9f609f422093717d546dd53611aa17790f336"
+metafile = true
+
+[[files]]
+file = "mods/konkrete-fabric.pw.toml"
+hash = "3c961c0177d756d4c88061bf55250168ed18584df3b127b4f1230ea2181e7424"
+metafile = true
+
+[[files]]
+file = "mods/lukis-grand-capitals.pw.toml"
+hash = "04cf03daaecfc55b6b8385b52f46f76886dcc132c3976dd573b4ac3904591462"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "cf7020c5a0575299d31f3d116ea25221cc7d0a0e83ed10cd78e33830766525b4"
+metafile = true
+
+[[files]]
+file = "mods/moving-elevators.pw.toml"
+hash = "2ebe5659638f12510a15310c5514f3089b5a173cbd05caa31cfcd7aa78d77e7a"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "c702e025298d58a90705f502abad07bb03e1dcc22733c95e1379665aa149918e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "e79dfedceb709fd5b15a43946987a1701946484305a4700d81ca1e198f5605df"
+metafile = true
+
+[[files]]
+file = "mods/tschipcrafts-dynamic-lights-mod.pw.toml"
+hash = "33f30b3979f0a2f4a4320a2157d77d2ae7ced9f69c03fd1b8d470269aec688b3"
+metafile = true
+
+[[files]]
+file = "mods/ydms-weapon-master.pw.toml"
+hash = "8b2315f6f820889c9856cb623bf572bced5da651db3a41fc85bc2a698dcfe481"
+metafile = true
