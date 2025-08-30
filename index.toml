@@ -1,20 +1,44 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".envrc"
-hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
+file = "mods/appleskin.pw.toml"
+hash = "c22ebc9646c063a5c53acae5b49a0b54f8b21500ecc79a9c52b142775512b2d6"
+metafile = true
 
 [[files]]
-file = "LICENSE"
-hash = "669902add3a9968b75b2ed6c80c0e12f9dd35bbc00cf740fe628795ae184bb47"
+file = "mods/cardinal-components-api.pw.toml"
+hash = "3c6175a421f6e6af80747c6d3063ffc16a61deed865ffb506e9ed9e394365c1e"
+metafile = true
 
 [[files]]
-file = "flake.lock"
-hash = "5ee859c4885631ce669205bfc6c36eb0d8b8fdefd4486f1963927ab39a4352f4"
+file = "mods/cc-polymer.pw.toml"
+hash = "95235f433edf7a995a9fb50668b2e219b899195875a556f9dd126dc8ca0e564c"
+metafile = true
 
 [[files]]
-file = "flake.nix"
-hash = "af74dbfc1995aa6de47495cb1e89125c29319eaa484076531fcd569bb017c765"
+file = "mods/cc-tweaked.pw.toml"
+hash = "18f9e66d50c38fca6d079e8b6c01feb62f2966bac7f0aff94eb3f62e75dc7d4f"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
+metafile = true
+
+[[files]]
+file = "mods/crate-delight.pw.toml"
+hash = "1b32663e6faa0cec349a28d3b4aed3e03d7937600f5a333e286d41d823b22410"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "59626c6dfef531532ad31f63e901f5ae464145c5783a5bb66fdb11777eade16a"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "4249e3227f1ab027e4e9ab8e41f07d282d6cecadc1d08fae3d062f7f9c45288f"
+metafile = true
 
 [[files]]
 file = "mods/explorify.pw.toml"
@@ -23,7 +47,27 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "aad43103bb170f8ca47a9f2bbb98cb39d7c0e333ea08fbfe2b11d8aeaafea695"
+hash = "18a90284cb04058c019dfcb2673a786b1b47a2b759308fca767be44fb07cfdee"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-polymer.pw.toml"
+hash = "55318a5edc4105d824b8a41e5f8698779d809164da4a15f0406a5ce4fb80b9fc"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "470e91911a37bdc3f8c329c07aec8e3028e0a0df95a997fb092696ec95c20275"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "f9acd9fa6c8e3e28c54f196c3840ae9227265a966d511e21be5056951706ea00"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "48f515fa28553b443aaeb32fe9dbb9e34c3ac9418a10c55c20a8552599999ea7"
 metafile = true
 
 [[files]]
@@ -42,6 +86,16 @@ hash = "04cf03daaecfc55b6b8385b52f46f76886dcc132c3976dd573b4ac3904591462"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "acc6771f8754ea3ce060a5809c032f880b2b93962a96128b8c9413a801bf6467"
+metafile = true
+
+[[files]]
+file = "mods/more-delight.pw.toml"
+hash = "77c6a261e282d638b4f51985125bc8ed618e32790a119e0a13d2ba8743d5c2e6"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "cf7020c5a0575299d31f3d116ea25221cc7d0a0e83ed10cd78e33830766525b4"
 metafile = true
@@ -52,8 +106,38 @@ hash = "2ebe5659638f12510a15310c5514f3089b5a173cbd05caa31cfcd7aa78d77e7a"
 metafile = true
 
 [[files]]
+file = "mods/oceans-delight-polymer-port.pw.toml"
+hash = "e2a8b2a141e5ffed1c85f9fadacc4639f60c98a1afe45f00eeafb3bf08967912"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "0993352e081593fca386a8a4e6473ece541a27e018c8384239f27f79d73133a0"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "8064a82db4ef2fefd51bb139f3ca013015392e6ad3ae1f7eabadef87378dac9b"
+metafile = true
+
+[[files]]
 file = "mods/skniros-furniture.pw.toml"
 hash = "51c531bbc973752279fd934c9e07b6eb3caed5db122a7803c34e8c8ae3337c70"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
+metafile = true
+
+[[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "179be50f5db593b31062c881cac2df1376d9647bb997c110b755ee9174de9fbf"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "9c5ef39a8ae37a70e5a9c689e5978b3bbdb22429056756ad7a25247fd6d95952"
 metafile = true
 
 [[files]]
@@ -72,8 +156,18 @@ hash = "1df1b08f62e00a54fc3fcd5765c776e807dfd5e6349b8f14ff61ff51686bd0f4"
 metafile = true
 
 [[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "03779db3c7cbf7d5853647c3e800880468f8aeffb4bc7be174bbb0e243b0ea1a"
+metafile = true
+
+[[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "2524a8febf8115786ac90a05222d575338eff77088ef84b87727fe24479ed33a"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "dacdbbcdf09323f1ce3646dcddb4c10d791b0306aa0cedf3c4c97d9f5136d06e"
 metafile = true
 
 [[files]]
@@ -82,11 +176,11 @@ hash = "33f30b3979f0a2f4a4320a2157d77d2ae7ced9f69c03fd1b8d470269aec688b3"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-backpacks.pw.toml"
-hash = "b640f568f492ad4ec8bc32190f135b929fd613a8a4b2c51b46aa79733d8990d6"
+file = "mods/ydms-weapon-master.pw.toml"
+hash = "8b2315f6f820889c9856cb623bf572bced5da651db3a41fc85bc2a698dcfe481"
 metafile = true
 
 [[files]]
-file = "mods/ydms-weapon-master.pw.toml"
-hash = "8b2315f6f820889c9856cb623bf572bced5da651db3a41fc85bc2a698dcfe481"
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "a8d349403d1c4b03c42f1962ba993e8b3dd65b9176176eec256f3fc6cbd9f40a"
 metafile = true
