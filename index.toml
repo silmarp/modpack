@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".envrc"
+hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
+
+[[files]]
 file = "LICENSE"
 hash = "669902add3a9968b75b2ed6c80c0e12f9dd35bbc00cf740fe628795ae184bb47"
 
@@ -48,6 +52,11 @@ hash = "2ebe5659638f12510a15310c5514f3089b5a173cbd05caa31cfcd7aa78d77e7a"
 metafile = true
 
 [[files]]
+file = "mods/skniros-furniture.pw.toml"
+hash = "51c531bbc973752279fd934c9e07b6eb3caed5db122a7803c34e8c8ae3337c70"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "c702e025298d58a90705f502abad07bb03e1dcc22733c95e1379665aa149918e"
 metafile = true
@@ -58,8 +67,23 @@ hash = "e79dfedceb709fd5b15a43946987a1701946484305a4700d81ca1e198f5605df"
 metafile = true
 
 [[files]]
+file = "mods/too-many-paintings-forge-fabric.pw.toml"
+hash = "1df1b08f62e00a54fc3fcd5765c776e807dfd5e6349b8f14ff61ff51686bd0f4"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "2524a8febf8115786ac90a05222d575338eff77088ef84b87727fe24479ed33a"
+metafile = true
+
+[[files]]
 file = "mods/tschipcrafts-dynamic-lights-mod.pw.toml"
 hash = "33f30b3979f0a2f4a4320a2157d77d2ae7ced9f69c03fd1b8d470269aec688b3"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-backpacks.pw.toml"
+hash = "b640f568f492ad4ec8bc32190f135b929fd613a8a4b2c51b46aa79733d8990d6"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Gero's Backpacks!"
+filename = "1.3.4-backpacks_mod-1.21.6-1.21.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b90402791a1ee86af388347100b8cfc89372804a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6851054
+project-id = 1081352
