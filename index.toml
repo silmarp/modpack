@@ -6,6 +6,11 @@ hash = "c22ebc9646c063a5c53acae5b49a0b54f8b21500ecc79a9c52b142775512b2d6"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "832691489ab19e2f0a4b81b77c143a8dceb5f3f395cdee96bcddd893fb01b363"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "3c6175a421f6e6af80747c6d3063ffc16a61deed865ffb506e9ed9e394365c1e"
 metafile = true
@@ -76,6 +81,11 @@ hash = "2781076ec25185f64c853d4cdce9f609f422093717d546dd53611aa17790f336"
 metafile = true
 
 [[files]]
+file = "mods/justenoughbook.pw.toml"
+hash = "7c78aa4de2e7766369c5dc84225344d5f3a1b396de0d7470e995bdc4c2847fad"
+metafile = true
+
+[[files]]
 file = "mods/konkrete-fabric.pw.toml"
 hash = "3c961c0177d756d4c88061bf55250168ed18584df3b127b4f1230ea2181e7424"
 metafile = true
@@ -118,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "8064a82db4ef2fefd51bb139f3ca013015392e6ad3ae1f7eabadef87378dac9b"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "c30abb741af8bcf3b29d000736aa2ae1730f0c551c17266e15b3c5c2183d0354"
 metafile = true
 
 [[files]]

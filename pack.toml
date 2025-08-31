@@ -1,12 +1,12 @@
 name = "SilMay"
 author = "Silmar"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e11ce5853025a6ea84d961e389bd0bfc195b03a02d1fc0046a7b6d1ced635063"
+hash = "378f47490cae9c5265629dff76b1c73feb32f7a146dc6feca97f7495cdec7de9"
 
 [versions]
 fabric = "0.17.2"
