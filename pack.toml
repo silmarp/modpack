@@ -1,12 +1,12 @@
 name = "Aicalica"
 author = "Silmar"
-version = "2.2.0"
+version = "2.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e19dcba50091e86912d90d8591469af589f349335b52404a60c863ce7ab122ff"
+hash = "6948ace6f4f02f422f666200de1957de977fb03850bae5a870949b40ea5fa76b"
 
 [versions]
 fabric = "0.17.2"

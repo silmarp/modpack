@@ -91,6 +91,11 @@ hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "8d418075860a8b033aa4906fba26ff298f67f6d51efa8a23052a1b2d8e45eb44"
+metafile = true
+
+[[files]]
 file = "mods/more-delight.pw.toml"
 hash = "f1a7bff7a5ed9e9f88a02786b33737a99852a5e4f5e6c05b6269a63daf9f1e72"
 metafile = true
@@ -141,6 +146,16 @@ hash = "261e8a3c9340f0df5a0a865580679056db97d3b85a35e4faf036f9bae75d09b7"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "3cc3f232ea2a58f481213ca0dc87b5d9297ad957e98b5b70e642f10e4fe793a5"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "3f4c51c7e2be2e402e39334a5ad172f852d039f8d751ddd8f55a471c1f4f8108"
+metafile = true
+
+[[files]]
 file = "mods/too-many-paintings-forge-fabric.pw.toml"
 hash = "05dec8c72d8d5c0d85272ba8d2ef64cdb0cf64b8f5875e10dbc5871ce26357d5"
 metafile = true
@@ -171,6 +186,6 @@ hash = "e0060e1fe8ddd4ef8dcb12580577793e06bbf6290630079ccad7468ee2eb42e3"
 metafile = true
 
 [[files]]
-file = "shaderpacks/super-duper-vanilla.pw.toml"
-hash = "a8d349403d1c4b03c42f1962ba993e8b3dd65b9176176eec256f3fc6cbd9f40a"
+file = "shaderpacks/miniature-shader.pw.toml"
+hash = "6777ce1b8f6804047f563d90ba9f250b09d5493cc11bb2a1d317de94b3a76004"
 metafile = true
