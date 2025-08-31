@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "3c6175a421f6e6af80747c6d3063ffc16a61deed865ffb506e9ed9e394365c1e"
+hash = "3c7ef3fff57455e29b7f32fa2b7af6cf4e192ad8f1dc630223f6b5034b2b6c4c"
 metafile = true
 
 [[files]]
@@ -116,18 +116,8 @@ hash = "97b51c1cecc44bb0b0fee142a51ebc80e422c6dd6103b659146e0516720e9bf1"
 metafile = true
 
 [[files]]
-file = "mods/notenoughrecipebook.pw.toml"
-hash = "bfd571ae8e997f4d3716aa70aea7ab478c68ffc351325233429ce452854a14bc"
-metafile = true
-
-[[files]]
 file = "mods/oceans-delight-polymer-port.pw.toml"
 hash = "e2a8b2a141e5ffed1c85f9fadacc4639f60c98a1afe45f00eeafb3bf08967912"
-metafile = true
-
-[[files]]
-file = "mods/octo-lib.pw.toml"
-hash = "32ff59758677de9b6b6d6bdd80624b81aa208dfb6f7a7bbd0b3ba951a386c52a"
 metafile = true
 
 [[files]]
@@ -143,11 +133,6 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "0a5ac09659d6565197829af0d2b6e8caa0f0aa5dac123e75c5846bf10914b9ed"
-metafile = true
-
-[[files]]
-file = "mods/skniros-furniture.pw.toml"
-hash = "51c531bbc973752279fd934c9e07b6eb3caed5db122a7803c34e8c8ae3337c70"
 metafile = true
 
 [[files]]
