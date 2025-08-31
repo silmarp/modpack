@@ -46,6 +46,11 @@ hash = "447ec530620e3c0da62316cb3358e43c15132084aab22ba992fefac199ca92a9"
 metafile = true
 
 [[files]]
+file = "mods/exlines-furniture.pw.toml"
+hash = "a317a540bee4487ab3e4ecdd02ebfbbb3817ff81225dc61f80b8bed056306603"
+metafile = true
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "2728d8eb6fced8220aaebafacfdef1ebca454657fbb215cc46d80442efd25dab"
 metafile = true
@@ -81,11 +86,6 @@ hash = "160916a102a7c9dd78982f82c6a02c8b29c75a4ea7d17996ff801cbbc215fc75"
 metafile = true
 
 [[files]]
-file = "mods/justenoughbook.pw.toml"
-hash = "7c78aa4de2e7766369c5dc84225344d5f3a1b396de0d7470e995bdc4c2847fad"
-metafile = true
-
-[[files]]
 file = "mods/konkrete-fabric.pw.toml"
 hash = "8121f1621355bb4ff8031ebc91f3824a2ae387a3b30d3feb25c84d0b480206f5"
 metafile = true
@@ -116,8 +116,18 @@ hash = "97b51c1cecc44bb0b0fee142a51ebc80e422c6dd6103b659146e0516720e9bf1"
 metafile = true
 
 [[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "bfd571ae8e997f4d3716aa70aea7ab478c68ffc351325233429ce452854a14bc"
+metafile = true
+
+[[files]]
 file = "mods/oceans-delight-polymer-port.pw.toml"
 hash = "e2a8b2a141e5ffed1c85f9fadacc4639f60c98a1afe45f00eeafb3bf08967912"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "32ff59758677de9b6b6d6bdd80624b81aa208dfb6f7a7bbd0b3ba951a386c52a"
 metafile = true
 
 [[files]]
