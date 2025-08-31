@@ -16,11 +16,6 @@ hash = "3c7ef3fff57455e29b7f32fa2b7af6cf4e192ad8f1dc630223f6b5034b2b6c4c"
 metafile = true
 
 [[files]]
-file = "mods/cc-polymer.pw.toml"
-hash = "28d9fb893eec08981605c978100c900bc843641645630c210fa3ac7afa881a70"
-metafile = true
-
-[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "9e7b826d484463de791968409dad4c7f681d0752eaf5eee3565b4cae5235d1c0"
 metafile = true
@@ -58,11 +53,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "e65f1856eed8725712eb26dd607cbed73de44b430bb069ba543ff706b35b2603"
-metafile = true
-
-[[files]]
-file = "mods/farmers-delight-polymer.pw.toml"
-hash = "55318a5edc4105d824b8a41e5f8698779d809164da4a15f0406a5ce4fb80b9fc"
 metafile = true
 
 [[files]]
@@ -116,18 +106,8 @@ hash = "97b51c1cecc44bb0b0fee142a51ebc80e422c6dd6103b659146e0516720e9bf1"
 metafile = true
 
 [[files]]
-file = "mods/oceans-delight-polymer-port.pw.toml"
-hash = "e2a8b2a141e5ffed1c85f9fadacc4639f60c98a1afe45f00eeafb3bf08967912"
-metafile = true
-
-[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
-metafile = true
-
-[[files]]
-file = "mods/polymer.pw.toml"
-hash = "4d151c94d9a87b5075973f3c622acfdaf4ea19be37ab30d41f79c24244093b81"
 metafile = true
 
 [[files]]

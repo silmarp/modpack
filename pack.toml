@@ -1,12 +1,12 @@
-name = "SilMay"
+name = "Aicalica"
 author = "Silmar"
-version = "2.1.0"
+version = "2.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d69577d9ff38cecec962fea11ddac6cf27cd544e419f35922d13d1c1d54547ca"
+hash = "e19dcba50091e86912d90d8591469af589f349335b52404a60c863ce7ab122ff"
 
 [versions]
 fabric = "0.17.2"
