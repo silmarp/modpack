@@ -66,6 +66,11 @@ hash = "f153bb989055178aacb8d919283a32697f7342ff2e244b883867e47fe94b28d6"
 metafile = true
 
 [[files]]
+file = "mods/furnish-furniture.pw.toml"
+hash = "b4135c933263239aa6050d9fac8347e79de87a7ec674a8ba68d68cfae1e6e45e"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
@@ -88,6 +93,16 @@ metafile = true
 [[files]]
 file = "mods/lukis-grand-capitals.pw.toml"
 hash = "04cf03daaecfc55b6b8385b52f46f76886dcc132c3976dd573b4ac3904591462"
+metafile = true
+
+[[files]]
+file = "mods/lyivxs-core.pw.toml"
+hash = "0af871589850ee655fe90590d7388a0d5d861f696da018cae2b1a9b2f1a168c8"
+metafile = true
+
+[[files]]
+file = "mods/lyivxs-furniture.pw.toml"
+hash = "2813a9c184eb048c7bcca4c78202bf0a39990bd795fc56b3841660d314edafba"
 metafile = true
 
 [[files]]
@@ -116,6 +131,11 @@ hash = "97b51c1cecc44bb0b0fee142a51ebc80e422c6dd6103b659146e0516720e9bf1"
 metafile = true
 
 [[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "2cf7d59a0b2410f103361d41822e7d91340623578cba8bfca0d7c27f2cdfec92"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
@@ -123,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "0a5ac09659d6565197829af0d2b6e8caa0f0aa5dac123e75c5846bf10914b9ed"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
 metafile = true
 
 [[files]]

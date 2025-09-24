@@ -1,0 +1,13 @@
+name = "LYIVX's Core"
+filename = "ls_core-1.1.5-Fabric-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ecwMmZnK/versions/uydWDXAk/ls_core-1.1.5-Fabric-1.21.jar"
+hash-format = "sha512"
+hash = "70aaba84081be5b3df638c9b84bf813d2a7bc2dd226e4687fe8ec482a12d42a994cb0c21fde642909a2626e7feda8cf5c9dc0be55acfa12516ef905fd5442aec"
+
+[update]
+[update.modrinth]
+mod-id = "ecwMmZnK"
+version = "uydWDXAk"

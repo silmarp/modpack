@@ -1,0 +1,13 @@
+name = "Furnection"
+filename = "ls_furniture-1.0.9-Fabric-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CR0S3SGP/versions/8xQOBGld/ls_furniture-1.0.9-Fabric-1.21.jar"
+hash-format = "sha512"
+hash = "7c112e4741d45e5120e55b7dad522bedf6e8a63760a0a419220e3a030e683fb25310904aaafcba1869f9ea1d7f13f3e629eff5872a402d90091cc3ca7ace6b2c"
+
+[update]
+[update.modrinth]
+mod-id = "CR0S3SGP"
+version = "8xQOBGld"
