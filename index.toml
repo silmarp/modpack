@@ -156,6 +156,11 @@ hash = "3f4c51c7e2be2e402e39334a5ad172f852d039f8d751ddd8f55a471c1f4f8108"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "63ce25d85a031914d8f0b9360635c5c9ff0da961663698200280c685d46179b2"
+metafile = true
+
+[[files]]
 file = "mods/too-many-paintings-forge-fabric.pw.toml"
 hash = "05dec8c72d8d5c0d85272ba8d2ef64cdb0cf64b8f5875e10dbc5871ce26357d5"
 metafile = true
