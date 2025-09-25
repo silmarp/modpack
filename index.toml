@@ -66,6 +66,11 @@ hash = "f153bb989055178aacb8d919283a32697f7342ff2e244b883867e47fe94b28d6"
 metafile = true
 
 [[files]]
+file = "mods/furnish-furniture.pw.toml"
+hash = "b4135c933263239aa6050d9fac8347e79de87a7ec674a8ba68d68cfae1e6e45e"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
@@ -113,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/moving-elevators.pw.toml"
 hash = "97b51c1cecc44bb0b0fee142a51ebc80e422c6dd6103b659146e0516720e9bf1"
+metafile = true
+
+[[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "2cf7d59a0b2410f103361d41822e7d91340623578cba8bfca0d7c27f2cdfec92"
 metafile = true
 
 [[files]]
